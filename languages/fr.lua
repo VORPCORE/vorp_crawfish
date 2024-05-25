@@ -1,13 +1,13 @@
 Locales["fr"] = {
-    item_crawfish = "Écrevisse",
-	item_harvest = "Viande crue de crustacés",
-	hole = "Trou d'écrevisses",
-	search_hole = "Rechercher trou d'écrevisses",
-	inv_nospace = "Pas assez de place dans votre inventaire!",
-	search_current = "Ce trou d'écrevisses est actuellement recherché!",
-	search_recent = "Ce trou d'écrevisses a été fouillé trop récemment...",
-	searching = "Recherche d'un trou d'écrevisses...",
-	search_found = "Vous avez trouvé  {count} x {item}!",
-	harvesting = "Récolte...",
-	harvested = "Vous avez récolté  {count} x {item}!"
+    search_prompt = "Chercher",
+    search_hole = "Chercher dans le trou de crustacés",
+    search_current = "Ce trou de crustacés est actuellement en cours de recherche!",
+    search_recent = "Ce trou de crustacés vient d'être fouillé et est vide...",
+    searching = "Recherche dans le trou de crustacés...",
+    search_found = "Oh, vous avez trouvé des crustacés!",
+    search_nothing = "Vous n'avez rien trouvé!",
+    hole_empty = "Ce trou de crustacés est vide...",
+    inv_nospace = "Vous n'avez pas assez de place dans votre inventaire!",
+    harvesting = "Récolte de crustacés...",
+    harvested = "Crustacé récolté, vous recevez %d morceau(x) de viande de crustacé!"
 }

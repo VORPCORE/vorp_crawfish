@@ -1,14 +1,13 @@
-
 Locales["es"] = {
-    item_crawfish = "cangrejo de río",
-	item_harvest = "carne de crustáceo crudo",
-	hole = "Hoyo de cangrejo de río",
-	search_hole = "Buscar en el agujero del cangrejo de río",
-	inv_nospace = "¡No hay suficiente espacio en tu inventario!",
-	search_current = "Agujero del cangrejo de río está siendo registrado en este momento.",
-	search_recent = "El agujero del cangrejo de río se ha buscado demasiado recientemente...",
-	searching = "Buscando cangrejos de río...",
-	search_found = "¡Encontraste {count} x {item}!",
-	harvesting = "desollar el cangrejo de río",
-	harvested = "¡Has cosechado {count} x {item}!"
+    search_prompt = "Buscar",
+    search_hole = "Buscar en agujero de crustáceos",
+    search_current = "¡Este agujero de crustáceos está siendo buscado actualmente!",
+    search_recent = "Este agujero de crustáceos acaba de ser buscado y está vacío...",
+    searching = "Buscando en agujero de crustáceos...",
+    search_found = "¡Oh, encontraste algunos crustáceos!",
+    search_nothing = "No encontraste nada!",
+    hole_empty = "Este agujero de crustáceos está vacío...",
+    inv_nospace = "¡No tienes suficiente espacio en tu inventario!",
+    harvesting = "Cosechando crustáceos...",
+    harvested = "Crustáceo cosechado, recibes %d pieza(s) de carne de crustáceo!"
 }

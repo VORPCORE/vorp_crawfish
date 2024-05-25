@@ -1,13 +1,13 @@
 Locales["de"] = {
-    item_crawfish = "Languste",
-	item_harvest = "Krebstier Fleisch",
-	hole = "Durchsuchen",
-	search_hole = "Langustenloch",
-	inv_nospace = "Nicht genug Platz im Inventar!",
-	search_current = "Dieses Langustenloch wird schon durchsucht!",
-	search_recent = "Dieses Langustenloch wurde grade durchsucht und ist leer...",
-	searching = "Durchsuche Langustenloch...",
-	search_found = "Du hast eine {item} gefunden!",
-	harvesting = "Languste ausnehmen...",
-	harvested = "Languste ausgenommen, du erhälst {item}!"
+	search_prompt = "Suchen",
+    search_hole = "Krebstierloch",
+	search_current = "Dieses Krebstierloch wird schon durchsucht!",
+	search_recent = "Dieses Krebstierloch wurde gerade durchsucht und ist leer...",
+	searching = "Durchsuche Krebstierloch...",
+	search_found = "Oh du hast ein Krebsgetier gefunden!",
+	search_nothing = "Du hast nichts gefunden!",
+	hole_empty = "Dieses Krebstierloch ist leer...",
+	inv_nospace = "Du hast nicht genug Platz im Inventar!",
+	harvesting = "Krebsgetier ausnehmen...",
+	harvested = "Krebsgetier ausgenommen, du erhälst %d Stück(e) Krebstier Fleisch!"
 }
